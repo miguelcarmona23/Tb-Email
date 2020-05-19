@@ -1,6 +1,6 @@
 # Threadbeast Email
 
-This is a Promotional HTML Email for a clothing box subscription for a clothing company.
+This is a Promotional HTML Email for a clothing company's box subscription.
 
 ![Image description](/images/project_thumbnail.png)
 
